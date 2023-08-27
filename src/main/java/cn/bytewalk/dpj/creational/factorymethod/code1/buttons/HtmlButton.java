@@ -1,4 +1,4 @@
-package cn.bytewalk.dpj.creational.factorymethod.buttons;
+package cn.bytewalk.dpj.creational.factorymethod.code1.buttons;
 
 /**
  * HTML 按钮的实现

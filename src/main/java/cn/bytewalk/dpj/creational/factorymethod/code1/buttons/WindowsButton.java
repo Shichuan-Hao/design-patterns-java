@@ -1,4 +1,4 @@
-package cn.bytewalk.dpj.creational.factorymethod.buttons;
+package cn.bytewalk.dpj.creational.factorymethod.code1.buttons;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

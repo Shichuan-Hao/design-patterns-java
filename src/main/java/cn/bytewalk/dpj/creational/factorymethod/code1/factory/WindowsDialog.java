@@ -1,7 +1,7 @@
-package cn.bytewalk.dpj.creational.factorymethod.factory;
+package cn.bytewalk.dpj.creational.factorymethod.code1.factory;
 
-import cn.bytewalk.dpj.creational.factorymethod.buttons.Button;
-import cn.bytewalk.dpj.creational.factorymethod.buttons.WindowsButton;
+import cn.bytewalk.dpj.creational.factorymethod.code1.buttons.Button;
+import cn.bytewalk.dpj.creational.factorymethod.code1.buttons.WindowsButton;
 
 /**
  *

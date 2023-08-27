@@ -1,8 +1,8 @@
-package cn.bytewalk.dpj.creational.factorymethod;
+package cn.bytewalk.dpj.creational.factorymethod.code1;
 
-import cn.bytewalk.dpj.creational.factorymethod.factory.Dialog;
-import cn.bytewalk.dpj.creational.factorymethod.factory.HtmlDialog;
-import cn.bytewalk.dpj.creational.factorymethod.factory.WindowsDialog;
+import cn.bytewalk.dpj.creational.factorymethod.code1.factory.Dialog;
+import cn.bytewalk.dpj.creational.factorymethod.code1.factory.HtmlDialog;
+import cn.bytewalk.dpj.creational.factorymethod.code1.factory.WindowsDialog;
 
 import java.util.Objects;
 

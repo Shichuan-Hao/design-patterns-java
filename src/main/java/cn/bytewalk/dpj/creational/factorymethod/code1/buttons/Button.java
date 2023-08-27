@@ -1,4 +1,4 @@
-package cn.bytewalk.dpj.creational.factorymethod.buttons;
+package cn.bytewalk.dpj.creational.factorymethod.code1.buttons;
 
 /**
  * 所有按钮（button）的通用接口。
